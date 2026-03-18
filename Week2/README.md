@@ -1,1 +1,1 @@
-Working model, progress notes
+Binary classification model development
