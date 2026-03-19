@@ -1,7 +1,10 @@
-# Machine Learning Internship Projects
+# Machine Learning Models for Classification and Regression
 
 ## Overview
-This repository contains projects completed as part of a Machine Learning Self-Learning Internship.
+This repository contains two machine learning projects developed as part of a self-learning internship. 
+The projects include a binary classification model using the Titanic dataset and a regression model 
+for predicting house prices. The work covers data preprocessing, model training, evaluation, 
+and comparison of different algorithms.
 
 ## Projects
 
